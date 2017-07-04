@@ -10,9 +10,9 @@ O exame tem o objetivo de entender qual o nível de conhecimento e organização
 - Ordenar por data (ASC e DESC)
 - Retornar o total de imóveis por cidade em algum endpoint de sua escolha.
 
-Os dados devem ser lidos de um DBMS (usar qualquer um de sua preferência: relacional ou orientado a documentos). Use o JSON como seed.
+Os dados devem ser lidos de um DBMS (usar qualquer um de sua preferência: relacional ou orientado a documentos). O exame deve ser realizado utilizando Python. Use o JSON como seed.
 
-Resultado final: Um Docker Componse (com pelo menos 2 containers: app e db) e de modo que possamos rodar os containers localmente.
+Resultado final: Um Docker Compose (com pelo menos 2 containers: app e db) e de modo que possamos rodar os containers localmente.
 
 Realizar o deploy em algum local e nos enviar a URL. 
 
